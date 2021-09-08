@@ -1,0 +1,20 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .button {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .sunburst {
+    vertical-align: top;
+    bottom: 15px;
+  }
+  
+  svg g g text {
+    font-weight: bold;
+    text-transform: uppercase;
+  }

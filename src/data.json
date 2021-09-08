@@ -1,0 +1,2203 @@
+{
+    "name": "nivo",
+    "children": [
+      {
+        "name": "Air",
+        "children": [
+          {
+            "name": "Aircraft Logistics",
+            "children": [
+              {
+                "name": "Aircraft Logistic",
+                "loc": 573042000
+              },
+              {
+                "name": "Aircraft Logistics: Parachute Systems",
+                "loc": 44662000
+              }
+            ]
+          },
+          {
+            "name": "Aircraft Operations",
+            "children": [
+              {
+                "name": "Aircraft Operations: Air Force",
+                "loc": 19328804000
+              },
+              {
+                "name": "Aircraft Operations: Army",
+                "loc": 2581560000
+              },
+              {
+                "name": "Aircraft Operations: Naval",
+                "loc": 8806487000
+              }
+            ]
+          },
+          {
+            "name": "Aircraft Systems",
+            "children": [
+              {
+                "name": "Airborne Countermeasures",
+                "loc": 842243000
+              },
+              {
+                "name": "Aircraft Systems: CAD/PAD",
+                "loc": 64077000
+              },
+              {
+                "name": "Aircraft Systems: Launch & Landing",
+                "loc": 8394000
+              },
+              {
+                "name": "Aircraft Systems: Propulsion",
+                "loc": 1475176000
+              },
+              {
+                "name": "Aircraft Systems: Support Equipment",
+                "loc": 1502726000
+              }
+            ]
+          },
+          {
+            "name": "Aircraft Weapons",
+            "children": [
+              {
+                "name": "Aircraft Guns",
+                "loc": 5374000
+              },
+              {
+                "name": "Aircraft Weapon",
+                "loc": 232599000
+              },
+              {
+                "name": "Rockets",
+                "loc": 529524000
+              }
+            ]
+          },
+          {
+            "name": "Aircraft Weapons: Bombs",
+            "children": [
+              {
+                "name": "Bombs",
+                "loc": 2864810000
+              },
+              {
+                "name": "Bombs: Practice",
+                "loc": 72252000
+              },
+              {
+                "name": "Hard Targets",
+                "loc": 111506000
+              }
+            ]
+          },
+          {
+            "name": "Aircraft Weapons: Missiles",
+            "children": [
+              {
+                "name": "Air-launched Hypersonics",
+                "loc": ""
+              },
+              {
+                "name": "Air-to-Air Missiles (AAM)",
+                "loc": 828379000
+              },
+              {
+                "name": "Air-to-Surface Missiles (ASM)",
+                "loc": 3670505000
+              }
+            ]
+          },
+          {
+            "name": "Fixed Wing Aircraft: C5ISR",
+            "children": [
+              {
+                "name": "F/W C5ISR: C2",
+                "loc": 413549000
+              },
+              {
+                "name": "F/W C5ISR: ISR",
+                "loc": 2866834000
+              },
+              {
+                "name": "F/W C5ISR: Maritime ISR",
+                "loc": 1772539000
+              }
+            ]
+          },
+          {
+            "name": "Fixed Wing Aircraft: Combat",
+            "children": [
+              {
+                "name": "F/W Combat: Bombers",
+                "loc": 3594264000
+              },
+              {
+                "name": "F/W Combat: Close Air Support (CAS)",
+                "loc": 245919000
+              },
+              {
+                "name": "F/W Combat: Fighters",
+                "loc": 19448631000
+              }
+            ]
+          },
+          {
+            "name": "Fixed Wing Aircraft: Lift",
+            "children": [
+              {
+                "name": "F/W Lift: Inter-theater Airlfit",
+                "loc": 275412000
+              },
+              {
+                "name": "F/W Lift: Intra-theater Airflift",
+                "loc": 1032704000
+              },
+              {
+                "name": "F/W Lift: Light Airlift",
+                "loc": 218935000
+              },
+              {
+                "name": "F/W Lift: Presidential",
+                "loc": 778807000
+              },
+              {
+                "name": "F/W Lift: Special Operations Airlift",
+                "loc": 948980000
+              }
+            ]
+          },
+          {
+            "name": "Fixed Wing Aircraft: Support",
+            "children": [
+              {
+                "name": "F/W Support: Refueling",
+                "loc": 2619920000
+              },
+              {
+                "name": "F/W Support: Special Operations",
+                "loc": 26664000
+              },
+              {
+                "name": "F/W Support: Utility",
+                "loc": 301439000
+              }
+            ]
+          },
+          {
+            "name": "Fixed Wing Aircraft: Trainer",
+            "children": [
+              {
+                "name": "F/W Trainer: Training Aircraft",
+                "loc": 659140000
+              }
+            ]
+          },
+          {
+            "name": "Rotary Wing Aircraft: Attack",
+            "children": [
+              {
+                "name": "R/W Attack",
+                "loc": 1342668000
+              }
+            ]
+          },
+          {
+            "name": "Rotary Wing Aircraft: C5ISR",
+            "children": [
+              {
+                "name": "R/W C5ISR: Maritime ISR",
+                "loc": 188803000
+              }
+            ]
+          },
+          {
+            "name": "Rotary Wing Aircraft: Lift",
+            "children": [
+              {
+                "name": "R/W Lift: Heavy Lift",
+                "loc": 579835000
+              },
+              {
+                "name": "R/W Lift: Maritime Lift",
+                "loc": 1620032000
+              },
+              {
+                "name": "R/W Lift: Multi-Mission",
+                "loc": 4948967000
+              },
+              {
+                "name": "R/W Lift: Presidential",
+                "loc": 820291000
+              },
+              {
+                "name": "R/W Lift: Special Operations",
+                "loc": 194739000
+              }
+            ]
+          },
+          {
+            "name": "Rotary Wing Aircraft: Trainer",
+            "children": [
+              {
+                "name": "R/W Trainer",
+                "loc": 237265000
+              }
+            ]
+          },
+          {
+            "name": "Unmanned Aerial System (UAS)",
+            "children": [
+              {
+                "name": "UAS: Attack",
+                "loc": 149000000
+              },
+              {
+                "name": "UAS: ISR",
+                "loc": 2226877000
+              },
+              {
+                "name": "UAS: Multi-Mission",
+                "loc": 963464000
+              },
+              {
+                "name": "UAS: Planning",
+                "loc": 6565000
+              },
+              {
+                "name": "UAS: Refueling",
+                "loc": 17568000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "C5ISR",
+        "children": [
+          {
+            "name": "Command & Control (C2)",
+            "children": [
+              {
+                "name": "C2: AIr",
+                "loc": 1038295000
+              },
+              {
+                "name": "C2: Air Traffic Control (ATC)",
+                "loc": 430078000
+              },
+              {
+                "name": "C2: Blue Force Tracking (BFT)",
+                "loc": 11331000
+              },
+              {
+                "name": "C2: Ground",
+                "loc": 1068458000
+              },
+              {
+                "name": "C2: Joint",
+                "loc": 106434000
+              },
+              {
+                "name": "C2: Missile Defense",
+                "loc": 111571000
+              },
+              {
+                "name": "C2: Naval",
+                "loc": 648186000
+              },
+              {
+                "name": "C2: Space",
+                "loc": 114824000
+              },
+              {
+                "name": "C2: Strategic",
+                "loc": 681050000
+              },
+              {
+                "name": "C2: Weather",
+                "loc": 634767000
+              },
+              {
+                "name": "Data Links: Ground",
+                "loc": 483439000
+              },
+              {
+                "name": "Data Links: Naval",
+                "loc": 93205000
+              }
+            ]
+          },
+          {
+            "name": "Communications",
+            "children": [
+              {
+                "name": "Comms",
+                "loc": 27441000
+              },
+              {
+                "name": "Comms: Broadcast",
+                "loc": 11800000
+              },
+              {
+                "name": "Comms: Enterprise",
+                "loc": 2152769000
+              },
+              {
+                "name": "Comms: Ground",
+                "loc": ""
+              },
+              {
+                "name": "Comms: Naval",
+                "loc": 116081000
+              },
+              {
+                "name": "Comms: SATCOM",
+                "loc": 417702000
+              },
+              {
+                "name": "Comms: SATCOM Terminals",
+                "loc": 444665000
+              },
+              {
+                "name": "Comms: Spectrum Mgmt",
+                "loc": 219837000
+              },
+              {
+                "name": "Comms: Tactical (Air)",
+                "loc": 180048000
+              },
+              {
+                "name": "Comms: Tactical (Ground)",
+                "loc": 1393877000
+              },
+              {
+                "name": "Comms: Tactical (Naval)",
+                "loc": 2437200000
+              },
+              {
+                "name": "Spectrum Management",
+                "loc": 37059000
+              }
+            ]
+          },
+          {
+            "name": "Cyber",
+            "children": [
+              {
+                "name": "Anti-Tamper",
+                "loc": 59957000
+              },
+              {
+                "name": "Communications Security (COMSEC)",
+                "loc": 456486000
+              },
+              {
+                "name": "Cyber Defense / Cyber Security",
+                "loc": 5844897000
+              },
+              {
+                "name": "Cyber Operations",
+                "loc": 511592000
+              },
+              {
+                "name": "Trusted Electronics",
+                "loc": 705189000
+              }
+            ]
+          },
+          {
+            "name": "Electronic Warfares (EW)",
+            "children": [
+              {
+                "name": "Electronic Attack (EA)",
+                "loc": 789908000
+              },
+              {
+                "name": "Electronic Warfare (EW)",
+                "loc": 922415000
+              },
+              {
+                "name": "SIGINT",
+                "loc": 547276000
+              }
+            ]
+          },
+          {
+            "name": "Fire Controls",
+            "children": [
+              {
+                "name": "Fire Control",
+                "loc": 10000000
+              },
+              {
+                "name": "Indirect Fires",
+                "loc": 28538000
+              },
+              {
+                "name": "Targeting Systems",
+                "loc": 39962000
+              }
+            ]
+          },
+          {
+            "name": "Information Technology (IT)",
+            "children": [
+              {
+                "name": "Financial Management",
+                "loc": 56121000
+              },
+              {
+                "name": "IT: Networks & Systems",
+                "loc": 4621051000
+              },
+              {
+                "name": "IT: Partners",
+                "loc": 52292000
+              },
+              {
+                "name": "Logistics IT",
+                "loc": 179631000
+              }
+            ]
+          },
+          {
+            "name": "Physical Securities",
+            "children": [
+              {
+                "name": "Physical Security",
+                "loc": 1339553000
+              },
+              {
+                "name": "Physical Security: Biometrics",
+                "loc": 8726000
+              },
+              {
+                "name": "Physical Security: Strategic Systems",
+                "loc": 57381000
+              }
+            ]
+          },
+          {
+            "name": "Precision Navigation & Timing (PNT)",
+            "children": [
+              {
+                "name": "Global Positioning Systems (GPS)",
+                "loc": 331509000
+              },
+              {
+                "name": "PNT Systems",
+                "loc": 616591000
+              }
+            ]
+          },
+          {
+            "name": "Radar",
+            "children": [
+              {
+                "name": "Radars",
+                "loc": 909498000
+              },
+              {
+                "name": "Radar: Counterfire",
+                "loc": 38399000
+              },
+              {
+                "name": "Radar: Ground",
+                "loc": 134239000
+              },
+              {
+                "name": "Radar: Naval",
+                "loc": 23472000
+              }
+            ]
+          },
+          {
+            "name": "Visual Sensors",
+            "children": [
+              {
+                "name": "EO/IR: Night Vision",
+                "loc": 413015000
+              },
+              {
+                "name": "EO/IR Sensors",
+                "loc": 49450000
+              },
+              {
+                "name": "Range-finding/Designations",
+                "loc": 28520000
+              },
+              {
+                "name": "Visual Sensors: Other",
+                "loc": 50249000
+              }
+            ]
+          },
+          {
+            "name": "Visual Systems",
+            "children": [
+              {
+                "name": "Range-finding/Designation",
+                "loc": 81541000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CBRNE",
+        "children": [
+          {
+            "name": "Chem-Bio",
+            "children": [
+              {
+                "name": "Chem-Bio Defense",
+                "loc": 1559682000
+              },
+              {
+                "name": "Demilitarization: Chemical",
+                "loc": 992144000
+              }
+            ]
+          },
+          {
+            "name": "Countering Weapons of Mass Destruction (CWMD)",
+            "children": [
+              {
+                "name": "CWMD",
+                "loc": 593103000
+              }
+            ]
+          },
+          {
+            "name": "Nuclear Defense",
+            "children": [
+              {
+                "name": "Nuclear Defenses ",
+                "loc": 7528000
+              }
+            ]
+          },
+          {
+            "name": "Radiation",
+            "children": [
+              {
+                "name": "Radiation Monitoring",
+                "loc": 6450000
+              }
+            ]
+          },
+          {
+            "name": "Radiological",
+            "children": [
+              {
+                "name": "Radiation Monitorings",
+                "loc": 679000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Classified ",
+        "children": [
+          {
+            "name": "Classified  ",
+            "children": [
+              {
+                "name": "Classified   ",
+                "loc": 74658890000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Facilities",
+        "children": [
+          {
+            "name": "Facilities: Construction",
+            "children": [
+              {
+                "name": "Facilities Construction: Aircraft & Airfield",
+                "loc": 3918974000
+              },
+              {
+                "name": "Facilities Construction: Counter-IED/EOD",
+                "loc": 61900000
+              },
+              {
+                "name": "Facilities Construction: Guard & Reserve",
+                "loc": 210050000
+              },
+              {
+                "name": "Facilities Construction: Housing",
+                "loc": 246809000
+              },
+              {
+                "name": "Facilities Construction: International/Partner",
+                "loc": 348221000
+              },
+              {
+                "name": "Facilities Construction: Logistics",
+                "loc": 426074000
+              },
+              {
+                "name": "Facilities Construction: Maintenance Facilities",
+                "loc": 650126000
+              },
+              {
+                "name": "Facilities Construction: Medical",
+                "loc": ""
+              },
+              {
+                "name": "Facilities Construction: Medical Facilities",
+                "loc": 237638000
+              },
+              {
+                "name": "Facilities Construction: Munitions",
+                "loc": 940559000
+              },
+              {
+                "name": "Facilities Construction: Naval Shore Facilities",
+                "loc": 575725000
+              },
+              {
+                "name": "Facilities Construction: Operational & Administrative",
+                "loc": 2645568000
+              },
+              {
+                "name": "Facilities Construction: Other Facilities",
+                "loc": 812712000
+              },
+              {
+                "name": "Facilities Construction: Planning & Design",
+                "loc": 1200160000
+              },
+              {
+                "name": "Facilities Construction: POL Facilities",
+                "loc": 438330000
+              },
+              {
+                "name": "Facilities Construction: Quarters/Barracks/Dining",
+                "loc": 1270482000
+              },
+              {
+                "name": "Facilities Construction: Ranges",
+                "loc": 390158000
+              },
+              {
+                "name": "Facilities Construction: RR&T",
+                "loc": 102100000
+              },
+              {
+                "name": "Facilities Construction: S&T",
+                "loc": ""
+              },
+              {
+                "name": "Facilities Construction: S&T Facilities",
+                "loc": 907110000
+              },
+              {
+                "name": "Facilities Construction: Safety & Security",
+                "loc": 574927000
+              },
+              {
+                "name": "Facilities Construction: Training Facilities",
+                "loc": 1188396000
+              },
+              {
+                "name": "Facilities Construction: Foreign Currency Adjustment",
+                "loc": 15738000
+              },
+              {
+                "name": "Facilities Maintenances",
+                "loc": 554866000
+              },
+              {
+                "name": "Facilities Operations: Acquisition & Leasing",
+                "loc": 3200000
+              },
+              {
+                "name": "Facilities Operations: Management",
+                "loc": 53648000
+              },
+              {
+                "name": "Facilities Operations: Utility",
+                "loc": 232630000
+              }
+            ]
+          },
+          {
+            "name": "Facilities: Costs",
+            "children": [
+              {
+                "name": "Facilities Cost: Accounting & Support",
+                "loc": 594000
+              },
+              {
+                "name": "Facilities Cost: Foreign Currency Adjustment",
+                "loc": 500000
+              }
+            ]
+          },
+          {
+            "name": "Facilities: Environmental",
+            "children": [
+              {
+                "name": "Facilities Environmental",
+                "loc": 1157139000
+              }
+            ]
+          },
+          {
+            "name": "Facilities: Maintenance",
+            "children": [
+              {
+                "name": "Facilities Maintenance",
+                "loc": 16479663000
+              },
+              {
+                "name": "Facilities Maintenance: Systems",
+                "loc": 49003000
+              }
+            ]
+          },
+          {
+            "name": "Facilities: Operations",
+            "children": [
+              {
+                "name": "Facilities Operation: Acquisition & Leasing",
+                "loc": 263684000
+              },
+              {
+                "name": "Facilities Operations: Base Operations",
+                "loc": 28943282000
+              },
+              {
+                "name": "Facilities Operations: Closing / Divestituture",
+                "loc": 308067000
+              },
+              {
+                "name": "Facilities Operations: Utilities",
+                "loc": 273492000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Ground",
+        "children": [
+          {
+            "name": "Ammunitions",
+            "children": [
+              {
+                "name": "Ammunition",
+                "loc": 250836000
+              },
+              {
+                "name": "Ammunition: Artillery",
+                "loc": 957215000
+              },
+              {
+                "name": "Ammunition: Grenades",
+                "loc": 46282000
+              },
+              {
+                "name": "Ammunition: Machine Guns",
+                "loc": 293659000
+              },
+              {
+                "name": "Ammunition: Management",
+                "loc": 433613000
+              },
+              {
+                "name": "Ammunition: Mortars",
+                "loc": 255615000
+              },
+              {
+                "name": "Ammunition: Munitions",
+                "loc": 10930000
+              },
+              {
+                "name": "Ammunition: Non-lethal",
+                "loc": 19062000
+              },
+              {
+                "name": "Ammunition: Small Arms",
+                "loc": 1292247000
+              },
+              {
+                "name": "Ammunition: Tank",
+                "loc": 72456000
+              }
+            ]
+          },
+          {
+            "name": "Ground Logistic",
+            "children": [
+              {
+                "name": "Ground Logistics",
+                "loc": 99321000
+              },
+              {
+                "name": "Ground Logistics: Camouflage & Obscurants",
+                "loc": 5050000
+              },
+              {
+                "name": "Ground Logistics: Material Handling",
+                "loc": ""
+              },
+              {
+                "name": "Ground Logistics: Operations",
+                "loc": 4523973000
+              },
+              {
+                "name": "Ground Logistics: POL & Water",
+                "loc": 112874000
+              },
+              {
+                "name": "Ground Logistics: Systems",
+                "loc": 788662000
+              },
+              {
+                "name": "Ground Logistics: Tactical Power",
+                "loc": 182526000
+              },
+              {
+                "name": "Ground Logistics: Transportation",
+                "loc": 1641543000
+              }
+            ]
+          },
+          {
+            "name": "Ground Operations",
+            "children": [
+              {
+                "name": "Ground Operations: Army",
+                "loc": 33040272000
+              },
+              {
+                "name": "Ground Operations: Marine Corps",
+                "loc": 1813288000
+              }
+            ]
+          },
+          {
+            "name": "Ground Systems",
+            "children": [
+              {
+                "name": "Ground System",
+                "loc": 143297000
+              },
+              {
+                "name": "Soldier Systems",
+                "loc": 1093613000
+              }
+            ]
+          },
+          {
+            "name": "Ground Vehicles: Amphibious",
+            "children": [
+              {
+                "name": "Amphibious Vehicles",
+                "loc": 394150000
+              }
+            ]
+          },
+          {
+            "name": "Ground Vehicles: Construction",
+            "children": [
+              {
+                "name": "Construction: Equipment",
+                "loc": 230800000
+              }
+            ]
+          },
+          {
+            "name": "Ground Vehicles: Logistics",
+            "children": [
+              {
+                "name": "Airfield Vehicles",
+                "loc": 7412000
+              },
+              {
+                "name": "Cargo Vehicles",
+                "loc": 40495000
+              },
+              {
+                "name": "Material Handling Systems",
+                "loc": 168676000
+              }
+            ]
+          },
+          {
+            "name": "Ground Vehicles: Safety & Security",
+            "children": [
+              {
+                "name": "Firefighting & Rescue",
+                "loc": 212686000
+              },
+              {
+                "name": "Security Vehicles",
+                "loc": 2488000
+              }
+            ]
+          },
+          {
+            "name": "Ground Vehicles: Support",
+            "children": [
+              {
+                "name": "Passenger Vehicles",
+                "loc": 23002000
+              },
+              {
+                "name": "Support Vehicles",
+                "loc": 282781000
+              }
+            ]
+          },
+          {
+            "name": "Ground Vehicles: Tactical",
+            "children": [
+              {
+                "name": "Bridging",
+                "loc": 356631000
+              },
+              {
+                "name": "Tactical Wheeled Vehicles",
+                "loc": 3501715000
+              }
+            ]
+          },
+          {
+            "name": "Ground Vehicles: Tracked",
+            "children": [
+              {
+                "name": "Tracked Combat Vehicles",
+                "loc": 4992525000
+              },
+              {
+                "name": "Tracked Combat Vehicles: APS",
+                "loc": ""
+              }
+            ]
+          },
+          {
+            "name": "Ground Vehicles: Unmanned",
+            "children": [
+              {
+                "name": "Robotics",
+                "loc": 212631000
+              }
+            ]
+          },
+          {
+            "name": "Ground Weapons",
+            "children": [
+              {
+                "name": "Counter-UAS",
+                "loc": 11983000
+              },
+              {
+                "name": "Mortars",
+                "loc": 59166000
+              }
+            ]
+          },
+          {
+            "name": "Ground Weapons: Indirect Fires",
+            "children": [
+              {
+                "name": "Indirect Fires: Artillery",
+                "loc": 120202000
+              },
+              {
+                "name": "Indirect Fires: Mortars",
+                "loc": 33026000
+              },
+              {
+                "name": "Indirect Fires: Rockets",
+                "loc": 589993000
+              }
+            ]
+          },
+          {
+            "name": "Ground Weapons: Mine Warfare",
+            "children": [
+              {
+                "name": "Mine Warfare Counter-IED",
+                "loc": 157061000
+              },
+              {
+                "name": "Explosive Ordnance Disposals (EOD)",
+                "loc": 179530000
+              }
+            ]
+          },
+          {
+            "name": "Ground Weapons: Mine/IED",
+            "children": [
+              {
+                "name": "Mine/IED Counter-IED",
+                "loc": 84030000
+              },
+              {
+                "name": "Counter-Mine",
+                "loc": 161635000
+              },
+              {
+                "name": "Explosive Ordnance Disposal (EOD)",
+                "loc": 78803000
+              },
+              {
+                "name": "Ground Mines",
+                "loc": 39239000
+              }
+            ]
+          },
+          {
+            "name": "Ground Weapons: Missiles",
+            "children": [
+              {
+                "name": "Ground Missiles: Missile Technology",
+                "loc": 5235000
+              },
+              {
+                "name": "Missiles: Hypersonics",
+                "loc": 152782000
+              },
+              {
+                "name": "Surface-to-Air Missiles (SAM)",
+                "loc": 194419000
+              },
+              {
+                "name": "Surface-to-Surface Missile (SSM)",
+                "loc": 2447566000
+              }
+            ]
+          },
+          {
+            "name": "Ground Weapons: Munitions",
+            "children": [
+              {
+                "name": "Other Munitions",
+                "loc": 275973000
+              }
+            ]
+          },
+          {
+            "name": "Ground Weapons: Small Arms",
+            "children": [
+              {
+                "name": "Small Arms",
+                "loc": 279453000
+              },
+              {
+                "name": "Small Arms: Grenade Launchers",
+                "loc": 5194000
+              },
+              {
+                "name": "Small Arms: Machine Guns",
+                "loc": 53179000
+              },
+              {
+                "name": "Small Arms: Non-Lethal",
+                "loc": 56402000
+              }
+            ]
+          },
+          {
+            "name": "Research & Dev (R&D)",
+            "children": [
+              {
+                "name": "R&D: Ground",
+                "loc": 320303000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Joint Enablers",
+        "children": [
+          {
+            "name": "Joint Operations",
+            "children": [
+              {
+                "name": "Civil Military",
+                "loc": 237992000
+              },
+              {
+                "name": "Combatant Commands",
+                "loc": 2384428000
+              },
+              {
+                "name": "Counter-Intelligences",
+                "loc": 909562000
+              },
+              {
+                "name": "Counter-narcotics",
+                "loc": 48291000
+              },
+              {
+                "name": "Disaster",
+                "loc": 1705000
+              },
+              {
+                "name": "Emergency Management",
+                "loc": 4854000
+              },
+              {
+                "name": "Exercises",
+                "loc": 65608000
+              },
+              {
+                "name": "Humanitarian Assistance",
+                "loc": 271291000
+              },
+              {
+                "name": "Information Operations",
+                "loc": 19586000
+              },
+              {
+                "name": "Military Deception",
+                "loc": 4688000
+              },
+              {
+                "name": "Partner Operations",
+                "loc": 1947000
+              },
+              {
+                "name": "Personnel Recovery",
+                "loc": 2266000
+              },
+              {
+                "name": "Special Operations",
+                "loc": 9638446000
+              }
+            ]
+          },
+          {
+            "name": "Management & Support Services",
+            "children": [
+              {
+                "name": "Accounting Adjustments",
+                "loc": 53517000
+              },
+              {
+                "name": "Acquisition & Program Management",
+                "loc": 2096878000
+              },
+              {
+                "name": "Administrations",
+                "loc": 8292093000
+              },
+              {
+                "name": "Fourth Estate",
+                "loc": 12905368000
+              },
+              {
+                "name": "Headquarter",
+                "loc": 5693872000
+              },
+              {
+                "name": "Legal & Inspector General",
+                "loc": 603156000
+              }
+            ]
+          },
+          {
+            "name": "Partner Security Assistance",
+            "children": [
+              {
+                "name": "Partner Assistance: Afghanistan",
+                "loc": 4199978000
+              },
+              {
+                "name": "Partner Assistance: Iraq",
+                "loc": 745000000
+              },
+              {
+                "name": "Partner Assistance: Israeli BMD Programs",
+                "loc": 500000000
+              },
+              {
+                "name": "Partner Assistance: Multinational Programs",
+                "loc": 1283412000
+              },
+              {
+                "name": "Partner Assistance: NATO Programs",
+                "loc": 50222000
+              }
+            ]
+          },
+          {
+            "name": "Research & Development (R&D)",
+            "children": [
+              {
+                "name": "Counter-Intelligence",
+                "loc": ""
+              },
+              {
+                "name": "Headquarters",
+                "loc": 136599000
+              },
+              {
+                "name": "R&D: Aerospace",
+                "loc": 243906000
+              },
+              {
+                "name": "R&D: AI & ML",
+                "loc": 631156000
+              },
+              {
+                "name": "R&D: Analysis",
+                "loc": 38031000
+              },
+              {
+                "name": "R&D: Biological",
+                "loc": 131017000
+              },
+              {
+                "name": "R&D: Communications",
+                "loc": 518646000
+              },
+              {
+                "name": "R&D: Defense Labs & UARCs",
+                "loc": 1394008000
+              },
+              {
+                "name": "R&D: Directed Energy",
+                "loc": 293222000
+              },
+              {
+                "name": "R&D: Electronics",
+                "loc": 524581000
+              },
+              {
+                "name": "R&D: Grounds",
+                "loc": 494296000
+              },
+              {
+                "name": "R&D: High Energy Laser",
+                "loc": 139255000
+              },
+              {
+                "name": "R&D: HSBC",
+                "loc": 161261000
+              },
+              {
+                "name": "R&D: Hypersonics",
+                "loc": 566935000
+              },
+              {
+                "name": "R&D: M&S",
+                "loc": 34686000
+              },
+              {
+                "name": "R&D: Maintenance",
+                "loc": 14376000
+              },
+              {
+                "name": "R&D: Management",
+                "loc": 437882000
+              },
+              {
+                "name": "R&D: Manufacturing & Industrial Base",
+                "loc": 2824668000
+              },
+              {
+                "name": "R&D: Materials",
+                "loc": 532039000
+              },
+              {
+                "name": "R&D: Microelectronics",
+                "loc": 201544000
+              },
+              {
+                "name": "R&D: Modeling & Simulation",
+                "loc": 9903000
+              },
+              {
+                "name": "R&D: Naval",
+                "loc": 487244000
+              },
+              {
+                "name": "R&D: Other S&T",
+                "loc": 449479000
+              },
+              {
+                "name": "R&D: Rapid Acquisition",
+                "loc": 1049285000
+              },
+              {
+                "name": "R&D: SBIR",
+                "loc": 13329000
+              },
+              {
+                "name": "R&D: SBIR/STTR",
+                "loc": 2215698000
+              },
+              {
+                "name": "R&D: Sensors",
+                "loc": 210940000
+              },
+              {
+                "name": "R&D: Software",
+                "loc": 313787000
+              },
+              {
+                "name": "R&D: University Research",
+                "loc": 802068000
+              },
+              {
+                "name": "R&D: Weapons",
+                "loc": 341125000
+              }
+            ]
+          },
+          {
+            "name": "Test & Evaluation (T&E)",
+            "children": [
+              {
+                "name": "T&E: Foreign System Testing",
+                "loc": 92907000
+              },
+              {
+                "name": "T&E: Operational Test",
+                "loc": 2538248000
+              },
+              {
+                "name": "T&E: Ranges",
+                "loc": 782723000
+              },
+              {
+                "name": "T&E: Systems",
+                "loc": 110659000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Medical",
+        "children": [
+          {
+            "name": "Military Medical",
+            "children": [
+              {
+                "name": "Medical IT",
+                "loc": 2168707000
+              },
+              {
+                "name": "Medical Operations",
+                "loc": 30889699000
+              },
+              {
+                "name": "Medical R&D",
+                "loc": 4687278000
+              },
+              {
+                "name": "Medical Systems",
+                "loc": 19221000
+              }
+            ]
+          },
+          {
+            "name": "Military Medical: Costs",
+            "children": [
+              {
+                "name": "Health Care Contribution",
+                "loc": 7816820000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Missile Defense",
+        "children": [
+          {
+            "name": "Air & Missile Defense",
+            "children": [
+              {
+                "name": "Integrated Air & Missile Defense",
+                "loc": 1347510000
+              }
+            ]
+          },
+          {
+            "name": "BMD",
+            "children": [
+              {
+                "name": "Hypersonic Defense",
+                "loc": 781147000
+              },
+              {
+                "name": "Other BMD",
+                "loc": 27166000
+              },
+              {
+                "name": "Other Missile Defense",
+                "loc": 2022057000
+              }
+            ]
+          },
+          {
+            "name": "BMD  Test & Evaluation (T&E)",
+            "children": [
+              {
+                "name": "T&E: Test (BMD)",
+                "loc": 192793000
+              }
+            ]
+          },
+          {
+            "name": "BMD: Interceptor",
+            "children": [
+              {
+                "name": "Interceptors",
+                "loc": 4363961000
+              }
+            ]
+          },
+          {
+            "name": "BMD: Sensors",
+            "children": [
+              {
+                "name": "BMD Sensor",
+                "loc": 2051589000
+              },
+              {
+                "name": "BMD Sensor: Radar",
+                "loc": 79817000
+              }
+            ]
+          },
+          {
+            "name": "BMD: Test & Evaluation (T&E)",
+            "children": [
+              {
+                "name": "T&E: Ranges (BMD)",
+                "loc": 64311000
+              },
+              {
+                "name": "T&E: Targets (BMD)",
+                "loc": 545764000
+              },
+              {
+                "name": "T&E: Tests (BMD)",
+                "loc": 423710000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Naval",
+        "children": [
+          {
+            "name": "Naval Logistics",
+            "children": [
+              {
+                "name": "Naval Logistic",
+                "loc": 3710000
+              },
+              {
+                "name": "Naval Logistic: Systems",
+                "loc": 17241000
+              }
+            ]
+          },
+          {
+            "name": "Naval Operations",
+            "children": [
+              {
+                "name": "Naval Operation",
+                "loc": 10393644000
+              }
+            ]
+          },
+          {
+            "name": "Naval Propulsion",
+            "children": [
+              {
+                "name": "Naval Propulsion: Non-Nuclear",
+                "loc": 98160000
+              },
+              {
+                "name": "Naval Propulsion: Nuclear",
+                "loc": 745876000
+              }
+            ]
+          },
+          {
+            "name": "Naval System",
+            "children": [
+              {
+                "name": "Naval: Combat Systems",
+                "loc": 434490000
+              },
+              {
+                "name": "Naval: Diving & Salvage",
+                "loc": 14763000
+              },
+              {
+                "name": "Naval Systems",
+                "loc": 816981000
+              },
+              {
+                "name": "Naval Systems: Aircraft Launch & Landing",
+                "loc": 143225000
+              },
+              {
+                "name": "Naval Systems: HM&E",
+                "loc": 390910000
+              }
+            ]
+          },
+          {
+            "name": "Naval Systems: Shipbuilding",
+            "children": [
+              {
+                "name": "Outfitting",
+                "loc": 902677000
+              },
+              {
+                "name": "Shipbuilding & Design",
+                "loc": 641949000
+              }
+            ]
+          },
+          {
+            "name": "Naval Weapons",
+            "children": [
+              {
+                "name": "Ship Self-Defense",
+                "loc": 476589000
+              },
+              {
+                "name": "Torpedo",
+                "loc": 301912000
+              }
+            ]
+          },
+          {
+            "name": "Naval Weapons: Guns",
+            "children": [
+              {
+                "name": "Naval Guns",
+                "loc": 68030000
+              },
+              {
+                "name": "Naval Guns: Ammunition",
+                "loc": 87882000
+              }
+            ]
+          },
+          {
+            "name": "Naval Weapons: Mine Warfare",
+            "children": [
+              {
+                "name": "Explosive Ordnance Disposal (EOD): Naval",
+                "loc": 77620000
+              },
+              {
+                "name": "Naval Counter-Mine",
+                "loc": 434252000
+              },
+              {
+                "name": "Naval Counter-Mine: Airborne",
+                "loc": 53318000
+              },
+              {
+                "name": "Naval Mines",
+                "loc": 124746000
+              }
+            ]
+          },
+          {
+            "name": "Naval Weapons: Missiles",
+            "children": [
+              {
+                "name": "Surface-to-Air Missile (SAM)",
+                "loc": 208015000
+              },
+              {
+                "name": "Surface-to-Surface Missiles (SSM)",
+                "loc": 1367245000
+              }
+            ]
+          },
+          {
+            "name": "Naval Weapons: Torpedoes",
+            "children": [
+              {
+                "name": "Torpedoes",
+                "loc": 211593000
+              }
+            ]
+          },
+          {
+            "name": "Submarines: Nuclear",
+            "children": [
+              {
+                "name": "Submarines: Attack (SSN)",
+                "loc": 8748232000
+              },
+              {
+                "name": "Submarines: Ballistic Missile (SSBN)",
+                "loc": 2638302000
+              }
+            ]
+          },
+          {
+            "name": "Submarines: Unmanned",
+            "children": [
+              {
+                "name": "Unmanned Undersea Vessel (UUV)",
+                "loc": 132665000
+              }
+            ]
+          },
+          {
+            "name": "Surface Ships: Amphibious",
+            "children": [
+              {
+                "name": "Amphibious Ships",
+                "loc": 79160000
+              },
+              {
+                "name": "Amphibious Ships: Landing Craft",
+                "loc": 23154000
+              },
+              {
+                "name": "Amphibious Vehicle",
+                "loc": 701247000
+              }
+            ]
+          },
+          {
+            "name": "Surface Ships: Combatant",
+            "children": [
+              {
+                "name": "Afloat Forward Staging Base (AFSB)",
+                "loc": 38000000
+              },
+              {
+                "name": "Carriers (CVN)",
+                "loc": 3039313000
+              },
+              {
+                "name": "Command & Control (LCC)",
+                "loc": ""
+              },
+              {
+                "name": "Cruisers (CG)",
+                "loc": 193990000
+              },
+              {
+                "name": "Destroyers (DDG)",
+                "loc": 6643885000
+              },
+              {
+                "name": "Frigate (FFG)",
+                "loc": 1338067000
+              },
+              {
+                "name": "Littoral Combat Ship (LCS)",
+                "loc": 398638000
+              }
+            ]
+          },
+          {
+            "name": "Surface Ships: Support",
+            "children": [
+              {
+                "name": "National Defense Sealift Fund (NDSF)",
+                "loc": 376913000
+              },
+              {
+                "name": "Support Ships",
+                "loc": ""
+              },
+              {
+                "name": "Support Ships: Oiler",
+                "loc": 1059531000
+              },
+              {
+                "name": "Support Ships: Small Boats",
+                "loc": 219830000
+              },
+              {
+                "name": "Support Ships: TAGOS",
+                "loc": ""
+              },
+              {
+                "name": "Support Ships: Transport",
+                "loc": 49000000
+              }
+            ]
+          },
+          {
+            "name": "Surface Ships: Unmanned",
+            "children": [
+              {
+                "name": "Unmanned Surface Vessel (USV)",
+                "loc": 45467000
+              }
+            ]
+          },
+          {
+            "name": "Undersea Warfare (USW)",
+            "children": [
+              {
+                "name": "Anti-Submarine Warfare (ASW)",
+                "loc": 193841000
+              },
+              {
+                "name": "USW: Sensors",
+                "loc": 189100000
+              },
+              {
+                "name": "USW: SONAR",
+                "loc": 1334467000
+              },
+              {
+                "name": "USW: Submarine Systems",
+                "loc": 786211000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Personnel",
+        "children": [
+          {
+            "name": "Civilian Personnel",
+            "children": [
+              {
+                "name": "Civilian Personnel: Education",
+                "loc": 441743000
+              },
+              {
+                "name": "Civilian Personnel: Support Costs",
+                "loc": 1885589000
+              }
+            ]
+          },
+          {
+            "name": "Civilians",
+            "children": [
+              {
+                "name": "Civilian Personnel: Compensation",
+                "loc": 3809000
+              }
+            ]
+          },
+          {
+            "name": "Education",
+            "children": [
+              {
+                "name": "Education: Benefits",
+                "loc": 1494978000
+              },
+              {
+                "name": "Education: Medical Scholarships",
+                "loc": 165950000
+              },
+              {
+                "name": "Education: ROTC / JROTC",
+                "loc": 1348391000
+              },
+              {
+                "name": "Education: Service Academies",
+                "loc": 262758000
+              },
+              {
+                "name": "Education: Systems",
+                "loc": 21991000
+              }
+            ]
+          },
+          {
+            "name": "Other Personnel Costs",
+            "children": [
+              {
+                "name": "Administration",
+                "loc": 10805251000
+              },
+              {
+                "name": "Other Military Personnel Costs",
+                "loc": -1120634000
+              },
+              {
+                "name": "Personnel R&D",
+                "loc": 29448000
+              }
+            ]
+          },
+          {
+            "name": "Pay & Allowances: Active Duty",
+            "children": [
+              {
+                "name": "Active Duty: Housing Allowances",
+                "loc": 21585275000
+              },
+              {
+                "name": "Active Duty: Incentive Pay",
+                "loc": 913047000
+              },
+              {
+                "name": "Active Duty: Military Pay",
+                "loc": 60306964000
+              },
+              {
+                "name": "Active Duty: Other Allowances",
+                "loc": 9195170000
+              },
+              {
+                "name": "Active Duty: Other Pays",
+                "loc": 357285000
+              },
+              {
+                "name": "Active Duty: Retirement Accrual",
+                "loc": 18563233000
+              },
+              {
+                "name": "Active Duty: Separation Pay",
+                "loc": 651929000
+              },
+              {
+                "name": "Active Duty: Social Security",
+                "loc": 4606932000
+              },
+              {
+                "name": "Active Duty: Special Pays",
+                "loc": 3595489000
+              },
+              {
+                "name": "Active Duty: TSP Matching",
+                "loc": 535399000
+              }
+            ]
+          },
+          {
+            "name": "Pay & Allowances: Reserve & Guard",
+            "children": [
+              {
+                "name": "Reserve & Guard: Pays",
+                "loc": 7399329000
+              },
+              {
+                "name": "Reserve & Guard: TSP Matching",
+                "loc": 57229000
+              }
+            ]
+          },
+          {
+            "name": "Recruiting",
+            "children": [
+              {
+                "name": "Recruitings",
+                "loc": 1442758000
+              },
+              {
+                "name": "Recruiting: Officers",
+                "loc": 504584000
+              }
+            ]
+          },
+          {
+            "name": "Travel",
+            "children": [
+              {
+                "name": "Travel: Accession",
+                "loc": 417873000
+              },
+              {
+                "name": "Travel: Operational",
+                "loc": 1114300000
+              },
+              {
+                "name": "Travel: Other",
+                "loc": ""
+              },
+              {
+                "name": "Travel: Rotational",
+                "loc": 1508175000
+              },
+              {
+                "name": "Travel: Separation",
+                "loc": 529726000
+              },
+              {
+                "name": "Travel: Storage",
+                "loc": 56640000
+              },
+              {
+                "name": "Travel: Temporary Lodging",
+                "loc": 69951000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Readiness",
+        "children": [
+          {
+            "name": "MRO: Services",
+            "children": [
+              {
+                "name": "MRO Services",
+                "loc": 249021000
+              },
+              {
+                "name": "MRO Services: Aircraft",
+                "loc": 12071864000
+              },
+              {
+                "name": "MRO Services: Ground",
+                "loc": 3133204000
+              },
+              {
+                "name": "MRO Services: MRO Research",
+                "loc": 13032000
+              },
+              {
+                "name": "MRO Services: Naval",
+                "loc": 15628129000
+              }
+            ]
+          },
+          {
+            "name": "MRO: Systems",
+            "children": [
+              {
+                "name": "MRO Systems",
+                "loc": 8312240000
+              },
+              {
+                "name": "MRO Systems: Aircraft",
+                "loc": 9239000
+              },
+              {
+                "name": "MRO Systems: Spares",
+                "loc": 3189400000
+              },
+              {
+                "name": "MRO Systems: Test Equipment",
+                "loc": 113825000
+              }
+            ]
+          },
+          {
+            "name": "Training: Ranges",
+            "children": [
+              {
+                "name": "Training Ranges",
+                "loc": 422843000
+              }
+            ]
+          },
+          {
+            "name": "Training: Services",
+            "children": [
+              {
+                "name": "Training Services",
+                "loc": 8006351000
+              },
+              {
+                "name": "Training Services: Schoolhouse",
+                "loc": 1373489000
+              },
+              {
+                "name": "Training Services: Specialized",
+                "loc": 5251150000
+              }
+            ]
+          },
+          {
+            "name": "Training: System",
+            "children": [
+              {
+                "name": "Training Systems",
+                "loc": 1522501000
+              },
+              {
+                "name": "Training Systems: Targets",
+                "loc": 355559000
+              },
+              {
+                "name": "Training Systems: Threat",
+                "loc": 41566000
+              }
+            ]
+          },
+          {
+            "name": "Training: Travel",
+            "children": [
+              {
+                "name": "Training Travel: Individual",
+                "loc": 319942000
+              },
+              {
+                "name": "Training Travel: Units",
+                "loc": 28321000
+              }
+            ]
+          },
+          {
+            "name": "Training Sys",
+            "children": [
+              {
+                "name": "Threat Simulator",
+                "loc": 119874000
+              },
+              {
+                "name": "Training Syses",
+                "loc": 226793000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Space",
+        "children": [
+          {
+            "name": "Communication",
+            "children": [
+              {
+                "name": "Comms: SATCOM Terminal",
+                "loc": ""
+              }
+            ]
+          },
+          {
+            "name": "Satellites",
+            "children": [
+              {
+                "name": "Satellites: Global Positioning Systems (GPS)",
+                "loc": 899208000
+              },
+              {
+                "name": "Satellites: Missile Defense",
+                "loc": 1755449000
+              },
+              {
+                "name": "Satellites: Satellite Communications (SATCOM)",
+                "loc": 795213000
+              },
+              {
+                "name": "Satellites: Weather",
+                "loc": 197650000
+              }
+            ]
+          },
+          {
+            "name": "Space Control",
+            "children": [
+              {
+                "name": "Counter-Space",
+                "loc": 31946000
+              },
+              {
+                "name": "Space Control",
+                "loc": 153916000
+              },
+              {
+                "name": "Space Control: Research",
+                "loc": 56270000
+              },
+              {
+                "name": "Space Siutational Awareness (SSA)",
+                "loc": 515729000
+              }
+            ]
+          },
+          {
+            "name": "Space Ground Segments",
+            "children": [
+              {
+                "name": "Space Ground Segment",
+                "loc": ""
+              },
+              {
+                "name": "Space Ground Segment: GPS",
+                "loc": 439560000
+              }
+            ]
+          },
+          {
+            "name": "Space Launches",
+            "children": [
+              {
+                "name": "Space Launch",
+                "loc": 2076025000
+              },
+              {
+                "name": "Space Launch: Operationally Responsive Space (ORS)",
+                "loc": 21965000
+              }
+            ]
+          },
+          {
+            "name": "Space Operations",
+            "children": [
+              {
+                "name": "Space Operation",
+                "loc": 589109000
+              }
+            ]
+          },
+          {
+            "name": "Space Technology",
+            "children": [
+              {
+                "name": "Space COMSEC",
+                "loc": 32031000
+              },
+              {
+                "name": "Space Research",
+                "loc": 1105458000
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Strategic Systems",
+        "children": [
+          {
+            "name": "Nuclear Weapons",
+            "children": [
+              {
+                "name": "Nuclear Weapons: ICBM",
+                "loc": 713771000
+              },
+              {
+                "name": "Nuclear Weapons: SLBM",
+                "loc": 1165736000
+              },
+              {
+                "name": "Nuclear Weapons: Support",
+                "loc": 94844000
+              },
+              {
+                "name": "Nuclear Weapons: Warheads",
+                "loc": 437628000
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  
